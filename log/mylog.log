@@ -1,0 +1,16 @@
+mylog: 2025-04-17 16:54:50,818: [ERROR] this is an error msg
+mylog: 2025-04-17 16:54:50,818: [WARN] this is a warn msg
+mylog: 2025-04-17 16:54:50,818: [INFO] this is an info msg
+mylog: 2025-04-17 16:54:50,818: [DEBUG] this is a debug msg
+2025-04-17 21:53:29,812: [ERROR] this is an error msg
+2025-04-17 21:53:29,813: [WARN] this is a warn msg
+2025-04-17 21:53:29,813: [INFO] this is an info msg
+2025-04-17 21:53:29,814: [DEBUG] this is a debug msg
+2025-04-17 21:57:34,807: [ERROR] this is an error msg
+2025-04-17 21:57:34,807: [WARN] this is a warn msg
+2025-04-17 21:57:34,807: [INFO] this is an info msg
+2025-04-17 21:57:34,807: [DEBUG] this is a debug msg
+2025-04-17 21:57:34,807: [ERROR] [testMyLogger.cc: main: 12]an error message
+2025-04-17 21:57:34,807: [WARN] [testMyLogger.cc: main: 13]a warn msg
+2025-04-17 21:57:34,807: [INFO] [testMyLogger.cc: main: 14]an info msg
+2025-04-17 21:57:34,807: [DEBUG] [testMyLogger.cc: main: 15]a debug msg
